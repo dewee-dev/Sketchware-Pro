@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663166000093",
+    "project_id": "mype-48150",
+    "storage_bucket": "mype-48150.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663166000093:android:1fc1ebba9038aba5a17434",
+        "android_client_info": {
+          "package_name": "com.pro.Sketchware"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4npBPyeDg4X4mdUs9WFIrY0ctZu34zzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
