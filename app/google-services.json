@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:663166000093:android:a9625384d4292f8fa17434",
+        "mobilesdk_app_id": "1:663166000093:android:18a0cefb46e09ff5a17434",
         "android_client_info": {
-          "package_name": "cn.pro.Sketchware"
+          "package_name": "pro.sketchware"
         }
       },
       "oauth_client": [],
